@@ -368,14 +368,14 @@ a{
         font-size: 1.6rem;
     }
     .footer__email {
-        font-size: 1.3rem;
+        font-size: 1.6rem;
     }
     .footer__img {
         width: 6rem;
         height: 6rem;
     }
     .copy p {
-        font-size: 2rem;
+        font-size: 1.3rem;
     }
 }
 @media screen and (max-width: 1166px) {
