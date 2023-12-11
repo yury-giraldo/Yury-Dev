@@ -148,7 +148,7 @@ a{
     text-align: center;
     margin: 5rem 4rem;
 }
-button{
+.banner__button--anime{
     position: relative;
     width: 30rem;
     height: 6rem;
@@ -163,7 +163,7 @@ button{
     margin: 4rem auto;
     z-index: 0;
 }
-button:before {
+.banner__button--anime:before {
     content: '';
     background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);;
     position: absolute;
@@ -181,15 +181,15 @@ button:before {
     border-radius: 1rem;
 }
 
-button:active:after {
+.banner__button--anime:active:after {
     background: transparent;
 }
 
-button:before {
+.banner__button--anime:before {
     opacity: 1;
 }
 
-button:after {
+.banner__button--anime:after {
     z-index: -1;
     content: '';
     position: absolute;
