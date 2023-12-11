@@ -355,27 +355,27 @@ a{
     }
     p{
         font-size: 2rem;
-        padding: 0 10rem;
-        line-height: 4rem;
+        padding: 0 7rem;
+        line-height: 3rem;
     }
     .about__text1{
         height: 25rem;
     }
     .footer__text p {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .footer__text span {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .footer__email {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .footer__img {
         width: 6rem;
         height: 6rem;
     }
     .copy p {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 }
 @media screen and (max-width: 1166px) {
