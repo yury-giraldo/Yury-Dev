@@ -286,7 +286,7 @@ a{
 .footer__text{
     width: 30%;
     height: auto;
-    text-align: justify;
+    text-align: left;
     padding: 1.5rem;
 
 }
